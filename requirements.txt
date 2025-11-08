@@ -3,4 +3,5 @@ uvicorn
 tensorflow
 requests
 numpy
-pickle5
+pandas
+scikit-learn
