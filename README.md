@@ -8,10 +8,10 @@ The model is hosted on Hugging Face at [TheMajic/spam_english](https://huggingfa
 
 ## Key Features
 
--   **AI-Powered Classification**: Predicts if text is profane using a fine-tuned model.
--   **Rule-Based Filtering**: Instantly flags text containing explicit bad words.
--   **Text Cleaning**: Removes URLs, mentions, and Arabic characters before analysis.
--   **Batch Processing**: Use the `/batch` endpoint to analyze multiple texts at once.
+- **AI-Powered Classification**: Predicts if text is profane using a fine-tuned model.
+- **Rule-Based Filtering**: Instantly flags text containing explicit bad words.
+- **Text Cleaning**: Removes URLs, mentions, and Arabic characters before analysis.
+- **Batch Processing**: Use the `/batch` endpoint to analyze multiple texts at once.
 
 ---
 
